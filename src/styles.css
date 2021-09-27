@@ -1,0 +1,29 @@
+.main {
+    width: 600px;
+    border-radius: 20px;
+    background-color: #11ff0b;
+}
+
+.header {
+    background-color: #ffff0d;
+    color: rgb(173, 169, 177);
+    padding: 0 20px;
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.day {
+    padding: 15px;
+    color: mediumspringgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.temp {
+    padding: 10px;
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
